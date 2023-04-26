@@ -6,7 +6,7 @@ namespace GenericHostConfigurationPS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine($"Processing: {args[0]}");
         }
     }
 }

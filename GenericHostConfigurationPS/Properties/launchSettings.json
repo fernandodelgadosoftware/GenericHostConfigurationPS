@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GenericHostConfigurationPS": {
+      "commandName": "Project",
+      "commandLineArgs": "backpack.jpg"
+    }
+  }
+}

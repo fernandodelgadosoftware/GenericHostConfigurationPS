@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\bin\Debug\net5.0\GenericHostConfigurationPS.exe
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\bin\Debug\net5.0\GenericHostConfigurationPS.deps.json
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\bin\Debug\net5.0\GenericHostConfigurationPS.runtimeconfig.json
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\bin\Debug\net5.0\GenericHostConfigurationPS.runtimeconfig.dev.json
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\bin\Debug\net5.0\GenericHostConfigurationPS.dll
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\bin\Debug\net5.0\GenericHostConfigurationPS.pdb
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\obj\Debug\net5.0\GenericHostConfigurationPS.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\obj\Debug\net5.0\GenericHostConfigurationPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\obj\Debug\net5.0\GenericHostConfigurationPS.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\obj\Debug\net5.0\GenericHostConfigurationPS.AssemblyInfo.cs
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\obj\Debug\net5.0\GenericHostConfigurationPS.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\obj\Debug\net5.0\GenericHostConfigurationPS.dll
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\obj\Debug\net5.0\refint\GenericHostConfigurationPS.dll
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\obj\Debug\net5.0\GenericHostConfigurationPS.pdb
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\obj\Debug\net5.0\GenericHostConfigurationPS.genruntimeconfig.cache
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\obj\Debug\net5.0\ref\GenericHostConfigurationPS.dll
