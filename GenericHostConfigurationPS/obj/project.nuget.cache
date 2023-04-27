@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SR5hNNpCamrdd2J2qT2MbMkOOiVwynQ/4VGiVWxKjqHChhU6nm8s72VO5z+ZMbttgO9Hekx3QRXQiRlnBs9zjg==",
+  "dgSpecHash": "UCvmxrPYzMXcFsbgOxZHToaGRDDuF2AG8Gp0l7AFec6wzBHeqmJ9hootUJwLSG+7asyYLVd7xU/H5xQ8JMc92w==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\source\\repos\\GenericHostConfigurationPS\\GenericHostConfigurationPS\\GenericHostConfigurationPS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\5.0.0\\microsoft.extensions.configuration.commandline.5.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",

@@ -24,3 +24,4 @@ C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationP
 C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\obj\Debug\net5.0\GenericHostConfigurationPS.genruntimeconfig.cache
 C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\obj\Debug\net5.0\ref\GenericHostConfigurationPS.dll
 C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\bin\Debug\net5.0\config.json
+C:\Users\admin\source\repos\GenericHostConfigurationPS\GenericHostConfigurationPS\bin\Debug\net5.0\Microsoft.Extensions.Configuration.CommandLine.dll

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Configuration.Json;
 
@@ -8,16 +9,32 @@ namespace GenericHostConfigurationPS
     {
         static void Main(string[] args)
         {
-            IConfigurationBuilder configurationBuilder = new ConfigurationBuilder();
-            configurationBuilder
-                //.SetBasePath(FileDirectory)
-                .AddJsonFile("config.json");
+            var switchMappings = new Dictionary<string, string>()
+            {
+                {"--thumbnailWidth", "thumbnail:width" },
+                {"-cl", "compressionLevel" }
 
-            IConfigurationRoot configuration = configurationBuilder.Build();
+            };
+            IConfigurationRoot configuration = new ConfigurationBuilder()
+                .AddJsonFile("config.json")
+                .AddCommandLine(args, switchMappings)
+                .Build();
 
+            IConfiguration thumbnailConfig = configuration.GetSection("thumbnail");
+            ProcessImage("Thumbnail", thumbnailConfig);
+            IConfiguration mediumConfig = configuration.GetSection("medium");
+            ProcessImage("Medium", mediumConfig);
+            IConfiguration largeConfig = configuration.GetSection("large");
+            ProcessImage("Large", largeConfig);
             Console.WriteLine($"Processing: {args[0]}");
-            Console.WriteLine($"Thumbnail Width: {configuration["thumbnailWidth"]}");
+            Console.WriteLine($"Thumbnail Width: {thumbnailConfig["width"]}");
+            Console.WriteLine($"Compression Level: {configuration["compressionLevel"]}");
 
+        }
+        private static void ProcessImage(string imageSize, IConfiguration config)
+        {
+            Console.WriteLine($"{imageSize} Width: {config["width"]}");
+            Console.WriteLine($"{imageSize} FilePrefix: {config["filePrefix"]}");
         }
     }
 }
