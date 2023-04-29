@@ -28,7 +28,7 @@ namespace GenericHostConfigurationPS
             ProcessImage("Large", largeConfig);
             Console.WriteLine($"Processing: {args[0]}");
             Console.WriteLine($"Thumbnail Width: {thumbnailConfig["width"]}");
-            Console.WriteLine($"Compression Level: {configuration["compressionLevel"]}");
+            Console.WriteLine($"Compression Level: {configuration["compressionLevel"]}" );
 
         }
         private static void ProcessImage(string imageSize, IConfiguration config)
